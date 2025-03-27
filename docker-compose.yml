@@ -36,11 +36,6 @@ version: '3.8'
      networks:
        - php-network
  
-  composer:
-   image: composer2
-   values:
-   -./laravel:/app
-   -
 
  volumes:
    mysql-data:

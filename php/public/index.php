@@ -37,7 +37,7 @@ $pessoas = $_SESSION["pessoas"] ?? [];
         <button type="submit">Enviar</button>
     </form>
 
-    <table border="3                ">
+    <table border="3">
         <tr>
             <th>Nome</th>
             <th>Idade</th>
