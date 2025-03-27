@@ -37,7 +37,4 @@
  
  echo $result;
  
- $pessoas = [
-     ['nome' => 'Alice', 'idade' => 30],
- ];
  
